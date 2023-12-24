@@ -11,6 +11,12 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    "paths": {
+      "ngx-cookies-manager": [
+        "dist/ngx-cookies-manager/ngx-cookies-manager",
+        "dist/ngx-cookies-manager"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
